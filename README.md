@@ -1,5 +1,13 @@
 # LSTM Quantitative Trading Educational Project - EURUSD H1 Strategy
 
+An open-source educational project demonstrating how to build, train, validate, export, and deploy LSTM-based financial forecasting models using real EURUSD market data, PyTorch, ONNX, and MetaTrader 5.
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.5-red)
+![ONNX](https://img.shields.io/badge/ONNX-Supported-orange)
+![MT5](https://img.shields.io/badge/MetaTrader5-Compatible-green)
+![License](https://img.shields.io/badge/License-MIT-brightgreen)
+
 ## Overview
 
 This project provides a complete end-to-end quantitative trading workflow based on a Long Short-Term Memory (LSTM) neural network. Using real EURUSD historical market data, the model is trained in PyTorch, exported to ONNX format, and deployed directly in MetaTrader 5 (MT5) for backtesting and live inference.
